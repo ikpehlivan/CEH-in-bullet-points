@@ -138,16 +138,3 @@
     1. [IoT overview](./chapters/18-iot-and-ot/iot-overview.md)
     2. [IoT security](./chapters/18-iot-and-ot/iot-security.md)
 19. [Exam readiness](chapters/19-exam-readiness/exam-readiness.md)
-
-[↑](#content)
-
-## Support
-
-- ⭐️ Simplest way to say thanks is just to it a star 🤩
-- ❤️ To show more support:
-  - ☕️ [buy me a coffee](https://buymeacoffee.com/undergroundwire)
-  - 👏🏿 [sponsor me](https://github.com/sponsors/undergroundwires)
-  - 🎈 [donate using another way](https://undergroundwires.dev/donate)
-- ✨ Contributions of any kind are welcome!
-
-[↑](#content)
